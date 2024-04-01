@@ -12,5 +12,5 @@ def fibonacci_sum_even(n):
         a, b = b, a + b
     return sum
 
-fibonacci_sum_even(4000000)
+print(fibonacci_sum_even(4000000))
 # 4613732
